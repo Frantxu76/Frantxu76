@@ -1,6 +1,6 @@
 # Título del Proyecto
 
-![Imagen de Portada](Frantxu76/recursos
+![Imagen de Portada](recursos
 /Aiden pearce.jpg)
 
 ## Descripción
