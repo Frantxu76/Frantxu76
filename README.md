@@ -1,7 +1,6 @@
 # Título del Proyecto
 
-![Imagen de Portada](recursos
-/Aiden pearce.jpg)
+![Imagen de Portada](recursos2/V De Vendetta.jpg)
 
 ## Descripción
 
